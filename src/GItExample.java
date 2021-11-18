@@ -3,6 +3,7 @@ public class GItExample {
 
         System.out.println("Hello,world" );
         System.out.println("二回目のコミット");
+        System.out.println("別のプロジェクトからのコミットです");
     }
 
 }
